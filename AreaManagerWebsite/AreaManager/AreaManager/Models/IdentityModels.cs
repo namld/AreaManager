@@ -21,7 +21,7 @@ namespace AreaManager.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("AreaManagerdbConnection", throwIfV1Schema: false)
         {
         }
 
