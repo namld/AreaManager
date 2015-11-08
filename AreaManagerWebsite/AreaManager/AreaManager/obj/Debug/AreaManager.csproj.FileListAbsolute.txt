@@ -14,6 +14,7 @@ F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\AreaManager.dll
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\AreaManager.pdb
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\Antlr3.Runtime.dll
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\AreaManager.Model.dll
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\EntityFramework.dll
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\EntityFramework.SqlServer.dll
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\Microsoft.AspNet.Identity.Core.dll
@@ -43,6 +44,7 @@ F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\System.Web.WebPages.dll
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\System.Web.WebPages.Razor.dll
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\WebGrease.dll
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\AreaManager.Model.pdb
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\System.Web.Helpers.xml
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\System.Web.Mvc.xml
@@ -70,5 +72,6 @@ F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\Microsoft.Owin.Security.Google.xml
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\Microsoft.Owin.Security.Twitter.xml
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.csprojResolveAssemblyReference.cache
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.dll
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.pdb

@@ -180,6 +180,8 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\OrganizesController.cs" />
+    <Compile Include="Controllers\PractiseController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -248,8 +250,19 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Practise\Bootrap.cshtml" />
+    <Content Include="Views\Organizes\Create.cshtml" />
+    <Content Include="Views\Organizes\Delete.cshtml" />
+    <Content Include="Views\Organizes\Details.cshtml" />
+    <Content Include="Views\Organizes\Edit.cshtml" />
+    <Content Include="Views\Organizes\Index.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\AreaManager.Model\AreaManager.Model.csproj">
+      <Project>{c15b7981-7dcb-4a6b-a58a-1580ee904f0f}</Project>
+      <Name>AreaManager.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
