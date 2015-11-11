@@ -75,3 +75,6 @@ F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.csprojResolveAssemblyReference.cache
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.dll
 F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.pdb
+E:\works\practise\dotnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.csprojResolveAssemblyReference.cache
+E:\works\practise\dotnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.dll
+E:\works\practise\dotnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager\obj\Debug\AreaManager.pdb
