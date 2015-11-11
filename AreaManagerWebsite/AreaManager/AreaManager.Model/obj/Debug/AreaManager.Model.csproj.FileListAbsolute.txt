@@ -1,0 +1,9 @@
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\bin\Debug\AreaManager.Model.dll.config
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\bin\Debug\AreaManager.Model.dll
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\bin\Debug\AreaManager.Model.pdb
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\bin\Debug\EntityFramework.dll
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\bin\Debug\EntityFramework.xml
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\obj\Debug\AreaManager.Model.dll
+F:\works\practise\aspnet\AreaManager\AreaManagerWebsite\AreaManager\AreaManager.Model\obj\Debug\AreaManager.Model.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaManager", "AreaManager\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaManager.Tests", "AreaManager.Tests\AreaManager.Tests.csproj", "{62D9FA64-6DC3-4F07-9EB2-24455337F056}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaManager.Model", "AreaManager.Model\AreaManager.Model.csproj", "{C15B7981-7DCB-4A6B-A58A-1580EE904F0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{62D9FA64-6DC3-4F07-9EB2-24455337F056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62D9FA64-6DC3-4F07-9EB2-24455337F056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62D9FA64-6DC3-4F07-9EB2-24455337F056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15B7981-7DCB-4A6B-A58A-1580EE904F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15B7981-7DCB-4A6B-A58A-1580EE904F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15B7981-7DCB-4A6B-A58A-1580EE904F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15B7981-7DCB-4A6B-A58A-1580EE904F0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
